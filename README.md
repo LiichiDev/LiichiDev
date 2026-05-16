@@ -1,5 +1,7 @@
+<h1 align="center">🚀 LichiDev</h1>
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=70&lines=Hola%2C+soy+LichiDev+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Creador+de+Bots+y+Plugins+%F0%9F%A4%96;Apasionado+por+el+c%C3%B3digo+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hola,+soy+LichiDev+👋;Full+Stack+Developer+💻;Creador+de+Bots,+Webs+y+Plugins+🛠️;Paper+%7C+Spigot+%7C+Velocity+⚡;Always+improving+🔥" />
 </div>
 
 ---
@@ -7,12 +9,7 @@
 ## 🧑‍💻 Sobre mí
 
 Soy **LichiDev**, un **desarrollador Full Stack** con experiencia en desarrollo web, creación de bots automatizados y plugins personalizables.  
-Me encanta transformar ideas en soluciones digitales funcionales, limpias y eficientes. Siempre estoy aprendiendo nuevas tecnologías para mejorar mis proyectos.
-
-- 🔭 Actualmente trabajando en proyectos propios y colaborativos.  
-- 🌱 Aprendiendo más sobre arquitectura de software y cloud computing.  
-- 💬 Pregúntame sobre **JavaScript, Python, Node.js, React, bots de Discord/Telegram o plugins para CMS**.  
-- ⚡ Dato curioso: Me tomo el café como si fuera el combustible del backend ☕.
+Me encanta transformar ideas en soluciones funcionales, limpias y eficientes. Siempre estoy aprendiendo nuevas tecnologías para mejorar mis proyectos.
 
 ---
 
@@ -71,7 +68,7 @@ Me encanta transformar ideas en soluciones digitales funcionales, limpias y efic
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LiichiDev&label=Visitas+al+perfil&color=0e75b6&style=flat" alt="contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=LichiDev&label=Visitas+al+perfil&color=0e75b6&style=flat" alt="contador de visitas" />
   
   *Gracias por pasar por aquí ⭐ ¡No olvides dejar una estrellita en mis proyectos si te gustan!*
 </div>
