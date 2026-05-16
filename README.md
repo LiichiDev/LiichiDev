@@ -87,7 +87,7 @@ const lichiDev = {
 
 - ✉️ Email: [kaiproyt82@gmail.com](mailto:kaiproyt82@gmail.com)  
 - 🌐 Portfolio: [LichiDev](https://lichidev.skallcraft.com)
-- 💫 Discord: [lichi82_]([https://lichidev.skallcraft.com](https://discord.com/users/750509766249414746))
+- 💫 Discord: [lichi82_]([https://lichidev.skallcraft.com](https://discord.com/users/750509766249414746)
 
 ---
 
