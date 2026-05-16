@@ -11,6 +11,28 @@
 Soy **LichiDev**, un **desarrollador Full Stack** con experiencia en desarrollo web, creación de bots automatizados y plugins personalizables.  
 Me encanta transformar ideas en soluciones funcionales, limpias y eficientes. Siempre estoy aprendiendo nuevas tecnologías para mejorar mis proyectos.
 
+```javascript
+const lichiDev = {
+    name: "Lisandro",
+    alias: "LichiDev",
+    age: 21,
+    country: "Argentina 🇦🇷",
+    role: "Java Backend & Full Stack Developer",
+    
+    focus: [
+        "Minecraft Plugins",
+        "Paper, Spigot & Velocity",
+        "Backend Systems",
+        "Server Optimization",
+        "Web Development",
+        "Bots & Automations"
+    ],
+
+    mindset: "Always improving 🚀"
+};
+```
+
+
 ---
 
 ## 🚀 Tecnologías y herramientas
