@@ -54,14 +54,28 @@ const lichiDev = {
 
 ---
 
-## 🎯 Proyectos destacados
+## 🎯 Proyectos (Onyx + Skall)
 
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|--------------|
-| 🚀 **EcoBot** | Bot de Discord para moderación y música | Node.js, Discord.js, MongoDB |
-| 🧩 **FlexPlugins** | Librería de plugins para WordPress y CMS | PHP, React, JS |
-| 🌐 **MiPortafolio** | Web personal con animaciones y dark mode | React, Framer Motion, CSS |
-| 🤖 **AutoFlow** | Automatización de tareas con bots de Telegram | Python, Aiogram, SQLite |
+| Nombre | Descripción |
+|--------|-------------|
+| ⚔️ **SkallElixir** | Sistema de pociones y elixires personalizables |
+| 🎮 **SkallEndControl** | Control de endgame y condiciones de victoria |
+| 🗡️ **OnyxItems** | Gestión de ítems personalizados con atributos únicos |
+| 🧱 **OnyxPads** | Plataformas impulsantes configurables |
+| 🧠 **OnyxCore** | Núcleo principal del ecosistema (múltiples funcionalidades) |
+| 💬 **OnyxChat** | Sistema de chat con formatos, canales y filtros |
+| 🔐 **SkallAuth** | Sistema de autenticación y control de Limbo |
+| ⚡ **SkallCmdBlock** | Bloqueo y gestión de comandos por permisos |
+| 🧩 **Otros (y demás)** | Plugins adicionales del ecosistema Onyx/Skall |
+
+### 🤖 Bots
+
+| Nombre | Descripción |
+|--------|-------------|
+| 📋 **StaffList** | Bot que muestra la lista del staff / moderadores en tiempo real |
+| 🖥️ **EstadoServidor** | Monitoriza y muestra el estado del servidor (online/offline, jugadores, latencia) |
+| 🔒 **DataPriv** | Bot para gestión y protección de datos privados de usuarios |
+| 🧩 **Otros (y demás)** | Bots adicionales del ecosistema |
 
 *(Próximamente más proyectos en mi repositorio)*
 
@@ -69,7 +83,7 @@ const lichiDev = {
 
 ## 📫 ¿Cómo contactarme?
 
-- ✉️ Email: [lichi.dev@ejemplo.com](mailto:kaiproyt82@gmail.com)  
+- ✉️ Email: [kaiproyt82@gmail.com](mailto:kaiproyt82@gmail.com)  
 - 🌐 Portfolio: [LichiDev](https://lichidev.skallcraft.com)
 
 ---
