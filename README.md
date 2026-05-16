@@ -69,15 +69,19 @@ const lichiDev = {
 
 ## 📫 ¿Cómo contactarme?
 
-- ✉️ Email: [lichi.dev@ejemplo.com](mailto:lichi.dev@ejemplo.com)  
-- 🐦 Twitter: [@LichiDev](https://twitter.com/LichiDev)  
-- 💼 LinkedIn: [LichiDev](https://linkedin.com/in/LichiDev)  
-- 🌐 Portfolio: [lichi.dev](https://lichi.dev)
+- ✉️ Email: [lichi.dev@ejemplo.com](mailto:kaiproyt82@gmail.com)  
+- 🌐 Portfolio: [LichiDev](https://lichidev.skallcraft.com)
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LichiDev&label=Visitas+al+perfil&color=0e75b6&style=flat" alt="contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=LiichiDev&label=Visitas+al+perfil&color=0e75b6&style=flat" alt="contador de visitas" />
+
+---
+
+<p align="center">
+  <i>“El código limpio siempre gana. La optimización es arte.”</i><br/>
+</p>
   
   *Gracias por pasar por aquí ⭐ ¡No olvides dejar una estrellita en mis proyectos si te gustan!*
 </div>
